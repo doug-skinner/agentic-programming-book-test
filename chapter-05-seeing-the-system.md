@@ -123,7 +123,7 @@ Doug felt everyone's eyes on him. This was it—the moment where he could play i
 
 Or he could take the leap.
 
-He thought about the feature timeline he'd mapped. Seventy-eight days for a button. He thought about his daughter's disappointed face when he missed her recital. He thought about the exhaustion in Keisha's voice when she'd said twelve percent.
+He thought about the feature timeline he'd mapped. Seventy-eight days for a "save for later" feature. He thought about his daughter's disappointed face when he missed her recital. He thought about the exhaustion in Keisha's voice when she'd said twelve percent.
 
 "I'm in," Doug said. "But I'll need support. Authority to change processes for the pilot team. Protection from the usual bureaucracy. And I'll need Keisha Washington's team—they're ready for this."
 

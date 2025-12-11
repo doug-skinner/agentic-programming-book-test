@@ -152,7 +152,6 @@ Doug looked up. She was still there, notebook in hand, expression neutral.
 
 Maya nodded slowly. "May I ask you something?"
 
-
 "Sure."
 
 "How many hours did you work last week?"
