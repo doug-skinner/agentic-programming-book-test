@@ -253,11 +253,11 @@ ShopStream is a struggling e-commerce platform that helps small and medium-sized
 ## Success Metrics to Track Through Story
 
 - Deployment frequency: 1/week → 10/day
-- Lead time for changes: 6 months → 2 weeks
+- Lead time for changes: 6 months → 1 week
 - Mean time to recovery: 4 hours → 15 minutes
 - Change failure rate: 35% → 5%
 - Customer churn: Decreasing from 8% to 2% monthly
 - Employee engagement scores: Rising trend
-- Feature velocity: 3x improvement
+- Feature velocity: 5x improvement
 
 This story arc provides the foundation for a 22-chapter book that follows Doug and ShopStream's transformation from near-bankruptcy to success through the adoption of agentic AI practices, inspired by the narrative style of The Phoenix Project while focusing on the unique challenges and opportunities of the agentic programming era.
