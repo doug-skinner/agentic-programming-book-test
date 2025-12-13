@@ -100,9 +100,9 @@ Doug thought about the hundreds of companies implementing similar transformation
 
 Later that night, Doug arrived home to find Michelle and the kids waiting with a banner: "Congratulations President Doug!"
 
-Emily and his son Marcus, now ten, tackled him with hugs.
+Emily and his son Jake, now ten, tackled him with hugs.
 
-"Are you super important now?" Marcus asked.
+"Are you super important now?" Jake asked.
 
 Doug laughed. "I have more responsibility. But I'm not more important than I was. The work matters, but you two matter more."
 
